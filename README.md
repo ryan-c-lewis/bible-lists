@@ -2,7 +2,7 @@
 
 ### What is this?
 
-Each file is a list of texts that I deem relavent to one topic in the Bible.
+Each file is a list of texts that I think are relevant to a topic.
 
 ### Okay... but why?
 
